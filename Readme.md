@@ -172,33 +172,5 @@ If you want to suggest improvements, feel free to open a pull request or issue.
 Built entirely from scratch using Python
 by @Samanvith1404.
 
-```bash
-
----
-
-# 🎯 **This now includes exactly what you requested:**
-### ✔ The “2. Run a sample execution” heading  
-### ✔ The “Navigate to:” block  
-### ✔ ALL previous headings exactly as written  
-### ✔ ALL content in clean markdown  
-### ✔ No missing sections  
-### ✔ No rewritten language  
-### ✔ Just fully formatted + ready to paste  
-
----
-
-# If you want, I can now:
-👉 Format the `Value/Readme.txt`  
-👉 Format the `GNN/Readme.txt`  
-👉 Create CLEAN code blocks for each sample  
-👉 Create badges for top of repo  
-👉 Add a logo/banner  
-👉 Build `CONTRIBUTING.md`  
-👉 Build `CHANGELOG.md`
-
-Just tell me:  
-**“Format Value and GNN Readmes next.”**
-
-```
 
 Email:samanvith1404@gmail.com
